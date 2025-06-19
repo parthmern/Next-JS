@@ -6,4 +6,4 @@
 
 - read all stuff it has good documentation
 
-- when u use reactjs your frotned is in react | and for backend there is different deployment
+- when u use reactjs your frotned is in react | and for backend there is different -deployment
